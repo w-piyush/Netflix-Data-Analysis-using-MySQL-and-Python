@@ -16,10 +16,10 @@ Netflix is a popular streaming service that offers a vast catalog of movies, TV 
 11. WHAT IS THE DISTRIBUTION OF CONTENT RATINGS ACROSS DIFFERENT CONTENT TYPES? 
 
 # Tools Used:
-Python Programming Language: • Pandas: For data manipulation, cleaning, and analysis. • Matplotlib and Seaborn: To create visually appealing charts and graphs for sales trends, product performance, and customer demographics. • NumPy: For numerical computations and calculations. • 
-Database Management System (DBMS): • MySQL: Used to store, query, and manage the Netflix dataset efficiently. • SQL queries for extracting
-Jupyter Notebook/Integrated Development Environment (IDE): • To write and test Python scripts for data analysis and visualization.
-Excel/CSV File Management: • To handle the raw dataset and export processed results for reporting.
+- Python Programming Language: • Pandas: For data manipulation, cleaning, and analysis. • Matplotlib and Seaborn: To create visually appealing charts and graphs for sales trends, product performance, and customer demographics. • NumPy: For numerical computations and calculations. • 
+- Database Management System (DBMS): • MySQL: Used to store, query, and manage the Netflix dataset efficiently. • SQL queries for extracting
+- Jupyter Notebook/Integrated Development Environment (IDE): • To write and test Python scripts for data analysis and visualization.
+- Excel/CSV File Management: • To handle the raw dataset and export processed results for reporting.
 
 # CONCLUSION : 
 The analysis of Netflix content reveals a well-balanced mix of 55% movies and 45% TV shows, with a strong preference for mature content as reflected by the dominance of TV-MA and TV-14 ratings. Pakistan stands out as the country with the most content, while both movies and TV shows see a peak in releases during September and a notable upward trend in 2021. Action and Adventure genres lead in popularity, and director Suhas Kadav has the highest frequency of content. Approximately 500 new titles were added in 2021, with a diverse range of movie durations observed, especially in 2020. The overall content distribution emphasizes Netflix's focus on mature, action-packed genres, catering to a global audience with growing content availability.
